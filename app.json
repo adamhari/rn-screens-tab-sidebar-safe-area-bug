@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "RNS tab sidebar safe area bug",
+    "slug": "rn-screens-tab-sidebar-safe-area-bug",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.rnstabsidebarsafeareabug"
+    }
+  }
+}
